@@ -19,7 +19,7 @@ Modify the `config.json` file to include:
 * `CALLBACK_URL` = The URL of your server.
 * `BW_URL` = The URL of the sneak preview _with accountId set_.
 
-```json
+```js
 {
     "OUTBOUND_TN"  : "+17079311113",
     "MATH_EXPERT"  : "+19194443333",
