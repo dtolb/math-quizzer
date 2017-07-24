@@ -17,14 +17,14 @@ Modify the `config.json` file to include:
 * `OUTBOUND_TN` = The caller-id of the outbound call
 * `MATH_EXPERT` = The phonenumber to transfer the outbound call
 * `CALLBACK_URL` = The URL of your server.
-* `BW_URL` = The URL of the sneak preview
+* `BW_URL` = The URL of the sneak preview _with accountId set_.
 
 ```json
 {
     "OUTBOUND_TN"  : "+17079311113",
     "MATH_EXPERT"  : "+19194443333",
     "CALLBACK_URL" : "http://your_root_url.com",
-    "BW_URL"       : "http://api.ADDRESS_OF_SLINGSHOT/v2/accounts/1234/",
+    "BW_URL"       : "http://api.ADDRESS_OF_SLINGSHOT/v2/accounts/1234/"
 }
 ```
 
