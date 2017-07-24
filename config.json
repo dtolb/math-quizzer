@@ -1,0 +1,6 @@
+{
+    "OUTBOUND_TN"  : "+1",
+    "MATH_EXPERT"  : "+1",
+    "CALLBACK_URL" : "http://",
+    "BW_URL"       : "http://api.PREVIEW_URL/v2/accounts/1234/"
+}
